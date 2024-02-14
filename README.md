@@ -1,2 +1,2 @@
-# instahesapodevi
-Kodluyoruz Eğitimi Kapsamında Clon Instagram Sayfası
+# Instagram Account Clone Project
+Bu projemde Instagram sayfasını HTML ve CSS yapılarıyla klonladım.
