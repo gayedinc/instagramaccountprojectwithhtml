@@ -1,2 +1,2 @@
 # Instagram Account Clone Project
-Bu projemde Instagram sayfasını HTML ve CSS yapılarıyla klonladım.
+In this project, I cloned the Instagram page with HTML and CSS structures.
